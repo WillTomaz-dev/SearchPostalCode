@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "cfe6edc090b6f2560da237712d100428"
+build_time: [1593658653, 706886000]
+inputs:
+  "/Users/williamtomaz/Downloads/Projetos/SearchPostalCode/Pods/Alamofire/Source/AFError.swift": [1593011566, 516661945]
+  "/Users/williamtomaz/Downloads/Projetos/SearchPostalCode/Pods/Alamofire/Source/Alamofire.swift": [1593011566, 521641584]
+  "/Users/williamtomaz/Downloads/Projetos/SearchPostalCode/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1593011566, 514566756]
+  "/Users/williamtomaz/Downloads/Projetos/SearchPostalCode/Pods/Alamofire/Source/MultipartFormData.swift": [1593011566, 512206789]
+  "/Users/williamtomaz/Downloads/Projetos/SearchPostalCode/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1593011566, 513131558]
+  "/Users/williamtomaz/Downloads/Projetos/SearchPostalCode/Pods/Alamofire/Source/Notifications.swift": [1593011566, 519840031]
+  "/Users/williamtomaz/Downloads/Projetos/SearchPostalCode/Pods/Alamofire/Source/ParameterEncoding.swift": [1593011566, 515863590]
+  "/Users/williamtomaz/Downloads/Projetos/SearchPostalCode/Pods/Alamofire/Source/Request.swift": [1593011566, 522475867]
+  "/Users/williamtomaz/Downloads/Projetos/SearchPostalCode/Pods/Alamofire/Source/Response.swift": [1593011566, 520766031]
+  "/Users/williamtomaz/Downloads/Projetos/SearchPostalCode/Pods/Alamofire/Source/ResponseSerialization.swift": [1593011566, 524648338]
+  "/Users/williamtomaz/Downloads/Projetos/SearchPostalCode/Pods/Alamofire/Source/Result.swift": [1593011566, 515122472]
+  "/Users/williamtomaz/Downloads/Projetos/SearchPostalCode/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1593011566, 525777097]
+  "/Users/williamtomaz/Downloads/Projetos/SearchPostalCode/Pods/Alamofire/Source/SessionDelegate.swift": [1593011566, 526924889]
+  "/Users/williamtomaz/Downloads/Projetos/SearchPostalCode/Pods/Alamofire/Source/SessionManager.swift": [1593011566, 523520966]
+  "/Users/williamtomaz/Downloads/Projetos/SearchPostalCode/Pods/Alamofire/Source/TaskDelegate.swift": [1593011566, 511202464]
+  "/Users/williamtomaz/Downloads/Projetos/SearchPostalCode/Pods/Alamofire/Source/Timeline.swift": [1593011566, 513922893]
+  "/Users/williamtomaz/Downloads/Projetos/SearchPostalCode/Pods/Alamofire/Source/Validation.swift": [1593011566, 517577657]

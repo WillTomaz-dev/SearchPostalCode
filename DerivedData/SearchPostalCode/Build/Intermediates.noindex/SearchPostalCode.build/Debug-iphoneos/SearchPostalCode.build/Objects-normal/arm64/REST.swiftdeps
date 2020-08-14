@@ -1,0 +1,121 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "REST"
+provides-nominal:
+- "16SearchPostalCode4RESTC"
+provides-member:
+- ["16SearchPostalCode4RESTC", ""]
+provides-dynamic-lookup:
+- "basePath"
+- "configuration"
+depends-top-level:
+- "AssignmentPrecedence"
+- "BooleanLiteralType"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "REST"
+- "StringLiteralType"
+- "URLSessionConfiguration"
+depends-member:
+- ["s7CVarArgP", "allowsCellularAccess"]
+- ["s7CVarArgP", "default"]
+- ["s7CVarArgP", "httpAdditionalHeaders"]
+- ["s7CVarArgP", "httpMaximumConnectionsPerHost"]
+- ["s7CVarArgP", "timeoutIntervalForRequest"]
+- ["s28CustomDebugStringConvertibleP", "allowsCellularAccess"]
+- ["s28CustomDebugStringConvertibleP", "default"]
+- ["s28CustomDebugStringConvertibleP", "httpAdditionalHeaders"]
+- ["s28CustomDebugStringConvertibleP", "httpMaximumConnectionsPerHost"]
+- ["s28CustomDebugStringConvertibleP", "timeoutIntervalForRequest"]
+- ["s23CustomStringConvertibleP", "allowsCellularAccess"]
+- ["s23CustomStringConvertibleP", "default"]
+- ["s23CustomStringConvertibleP", "httpAdditionalHeaders"]
+- ["s23CustomStringConvertibleP", "httpMaximumConnectionsPerHost"]
+- ["s23CustomStringConvertibleP", "timeoutIntervalForRequest"]
+- ["SQ", "allowsCellularAccess"]
+- ["SQ", "default"]
+- ["SQ", "httpAdditionalHeaders"]
+- ["SQ", "httpMaximumConnectionsPerHost"]
+- ["SQ", "timeoutIntervalForRequest"]
+- ["SH", "allowsCellularAccess"]
+- ["SH", "default"]
+- ["SH", "httpAdditionalHeaders"]
+- ["SH", "httpMaximumConnectionsPerHost"]
+- ["SH", "timeoutIntervalForRequest"]
+- ["So9NSCopyingP", "allowsCellularAccess"]
+- ["So9NSCopyingP", "default"]
+- ["So9NSCopyingP", "httpAdditionalHeaders"]
+- ["So9NSCopyingP", "httpMaximumConnectionsPerHost"]
+- ["So9NSCopyingP", "timeoutIntervalForRequest"]
+- ["So8NSObjectC", "allowsCellularAccess"]
+- ["So8NSObjectC", "default"]
+- ["So8NSObjectC", "httpAdditionalHeaders"]
+- ["So8NSObjectC", "httpMaximumConnectionsPerHost"]
+- ["So8NSObjectC", "timeoutIntervalForRequest"]
+- ["So8NSObjectP", "allowsCellularAccess"]
+- ["So8NSObjectP", "default"]
+- ["So8NSObjectP", "httpAdditionalHeaders"]
+- ["So8NSObjectP", "httpMaximumConnectionsPerHost"]
+- ["So8NSObjectP", "timeoutIntervalForRequest"]
+- ["16SearchPostalCode4RESTC", "URLSessionConfiguration"]
+- !private ["16SearchPostalCode4RESTC", "basePath"]
+- !private ["16SearchPostalCode4RESTC", "configuration"]
+- ["16SearchPostalCode4RESTC", "deinit"]
+- ["16SearchPostalCode4RESTC", "init"]
+- ["So25NSURLSessionConfigurationC", "allowsCellularAccess"]
+- ["So25NSURLSessionConfigurationC", "default"]
+- ["So25NSURLSessionConfigurationC", "httpAdditionalHeaders"]
+- ["So25NSURLSessionConfigurationC", "httpMaximumConnectionsPerHost"]
+- ["So25NSURLSessionConfigurationC", "timeoutIntervalForRequest"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "allowsCellularAccess"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "default"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "httpAdditionalHeaders"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "httpMaximumConnectionsPerHost"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "timeoutIntervalForRequest"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "allowsCellularAccess"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "default"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "httpAdditionalHeaders"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "httpMaximumConnectionsPerHost"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "timeoutIntervalForRequest"]
+depends-nominal:
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "SH"
+- "So9NSCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "16SearchPostalCode4RESTC"
+- "So25NSURLSessionConfigurationC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/ObjectiveC.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreImage.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/QuartzCore.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Dispatch.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Metal.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Darwin.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Foundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreFoundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreGraphics.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Swift.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/UIKit.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/SwiftOnoneSupport.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Combine.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "9fb277ae23195fd4b0e71d257f04c6dd"

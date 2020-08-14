@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>4C103A36-3A77-4330-8C31-94152BE8076A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>4C103A36-3A77-4330-8C31-94152BE8076A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>SearchPostalCode-aittezibzwmzgtbomlclowbcrryd</string>
+			<key>timeStartedRecording</key>
+			<real>615351469.98642004</real>
+			<key>timeStoppedRecording</key>
+			<real>615351478.48539305</real>
+			<key>title</key>
+			<string>Build target SearchPostalCode</string>
+			<key>uniqueIdentifier</key>
+			<string>4C103A36-3A77-4330-8C31-94152BE8076A</string>
+		</dict>
+		<key>A15F5448-DF4C-4A14-A6FE-9C214237F6D9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>A15F5448-DF4C-4A14-A6FE-9C214237F6D9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Alamofire-ctgnyjrtreexxjhihewiczwziozg</string>
+			<key>timeStartedRecording</key>
+			<real>615351453.60528696</real>
+			<key>timeStoppedRecording</key>
+			<real>615351469.98499095</real>
+			<key>title</key>
+			<string>Build target Alamofire</string>
+			<key>uniqueIdentifier</key>
+			<string>A15F5448-DF4C-4A14-A6FE-9C214237F6D9</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

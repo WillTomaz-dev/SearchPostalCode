@@ -1,0 +1,447 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SearchResultViewController"
+provides-nominal:
+- "16SearchPostalCode0A20ResultViewControllerC"
+provides-member:
+- ["16SearchPostalCode0A20ResultViewControllerC", ""]
+provides-dynamic-lookup:
+- "close"
+- "lbDistrict"
+- "lbPostalCode"
+- "lbState"
+- "lbStreet"
+- "lbUF"
+- "postalCode"
+- "showAdress"
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "PostalCode"
+- "SearchResultViewController"
+- "UIButton"
+- "UILabel"
+- "UIViewController"
+- !private "print"
+depends-member:
+- !private ["So15CALayerDelegateP", "text"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "dismiss"]
+- !private ["s7CVarArgP", "lbDistrict"]
+- !private ["s7CVarArgP", "lbPostalCode"]
+- !private ["s7CVarArgP", "lbState"]
+- !private ["s7CVarArgP", "lbStreet"]
+- !private ["s7CVarArgP", "lbUF"]
+- !private ["s7CVarArgP", "postalCode"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "showAdress"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "bairro"]
+- !private ["s28CustomDebugStringConvertibleP", "cep"]
+- !private ["s28CustomDebugStringConvertibleP", "dismiss"]
+- !private ["s28CustomDebugStringConvertibleP", "lbDistrict"]
+- !private ["s28CustomDebugStringConvertibleP", "lbPostalCode"]
+- !private ["s28CustomDebugStringConvertibleP", "lbState"]
+- !private ["s28CustomDebugStringConvertibleP", "lbStreet"]
+- !private ["s28CustomDebugStringConvertibleP", "lbUF"]
+- !private ["s28CustomDebugStringConvertibleP", "localidade"]
+- !private ["s28CustomDebugStringConvertibleP", "logradouro"]
+- !private ["s28CustomDebugStringConvertibleP", "postalCode"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "showAdress"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "uf"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "bairro"]
+- !private ["s17CustomReflectableP", "cep"]
+- !private ["s17CustomReflectableP", "localidade"]
+- !private ["s17CustomReflectableP", "logradouro"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s17CustomReflectableP", "uf"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "dismiss"]
+- !private ["s23CustomStringConvertibleP", "lbDistrict"]
+- !private ["s23CustomStringConvertibleP", "lbPostalCode"]
+- !private ["s23CustomStringConvertibleP", "lbState"]
+- !private ["s23CustomStringConvertibleP", "lbStreet"]
+- !private ["s23CustomStringConvertibleP", "lbUF"]
+- !private ["s23CustomStringConvertibleP", "postalCode"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "showAdress"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "bairro"]
+- !private ["Se", "cep"]
+- !private ["Se", "localidade"]
+- !private ["Se", "logradouro"]
+- !private ["Se", "text"]
+- !private ["Se", "uf"]
+- !private ["SE", "bairro"]
+- !private ["SE", "cep"]
+- !private ["SE", "localidade"]
+- !private ["SE", "logradouro"]
+- !private ["SE", "text"]
+- !private ["SE", "uf"]
+- ["SQ", ""]
+- !private ["SQ", "bairro"]
+- !private ["SQ", "cep"]
+- !private ["SQ", "dismiss"]
+- !private ["SQ", "lbDistrict"]
+- !private ["SQ", "lbPostalCode"]
+- !private ["SQ", "lbState"]
+- !private ["SQ", "lbStreet"]
+- !private ["SQ", "lbUF"]
+- !private ["SQ", "localidade"]
+- !private ["SQ", "logradouro"]
+- !private ["SQ", "postalCode"]
+- !private ["SQ", "print"]
+- !private ["SQ", "showAdress"]
+- !private ["SQ", "text"]
+- !private ["SQ", "uf"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s23ExpressibleByNilLiteralP", "bairro"]
+- !private ["s23ExpressibleByNilLiteralP", "cep"]
+- !private ["s23ExpressibleByNilLiteralP", "localidade"]
+- !private ["s23ExpressibleByNilLiteralP", "logradouro"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- !private ["s23ExpressibleByNilLiteralP", "uf"]
+- ["SH", ""]
+- !private ["SH", "bairro"]
+- !private ["SH", "cep"]
+- !private ["SH", "dismiss"]
+- !private ["SH", "lbDistrict"]
+- !private ["SH", "lbPostalCode"]
+- !private ["SH", "lbState"]
+- !private ["SH", "lbStreet"]
+- !private ["SH", "lbUF"]
+- !private ["SH", "localidade"]
+- !private ["SH", "logradouro"]
+- !private ["SH", "postalCode"]
+- !private ["SH", "print"]
+- !private ["SH", "showAdress"]
+- !private ["SH", "text"]
+- !private ["SH", "uf"]
+- !private ["SH", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "dismiss"]
+- !private ["So8NSCodingP", "lbDistrict"]
+- !private ["So8NSCodingP", "lbPostalCode"]
+- !private ["So8NSCodingP", "lbState"]
+- !private ["So8NSCodingP", "lbStreet"]
+- !private ["So8NSCodingP", "lbUF"]
+- !private ["So8NSCodingP", "postalCode"]
+- !private ["So8NSCodingP", "print"]
+- !private ["So8NSCodingP", "showAdress"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "dismiss"]
+- !private ["So26NSExtensionRequestHandlingP", "lbDistrict"]
+- !private ["So26NSExtensionRequestHandlingP", "lbPostalCode"]
+- !private ["So26NSExtensionRequestHandlingP", "lbState"]
+- !private ["So26NSExtensionRequestHandlingP", "lbStreet"]
+- !private ["So26NSExtensionRequestHandlingP", "lbUF"]
+- !private ["So26NSExtensionRequestHandlingP", "postalCode"]
+- !private ["So26NSExtensionRequestHandlingP", "print"]
+- !private ["So26NSExtensionRequestHandlingP", "showAdress"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So8NSObjectC", "PostalCode"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "close"]
+- !private ["So8NSObjectC", "dismiss"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "lbDistrict"]
+- ["So8NSObjectC", "lbPostalCode"]
+- ["So8NSObjectC", "lbState"]
+- ["So8NSObjectC", "lbStreet"]
+- ["So8NSObjectC", "lbUF"]
+- ["So8NSObjectC", "postalCode"]
+- !private ["So8NSObjectC", "print"]
+- ["So8NSObjectC", "showAdress"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "dismiss"]
+- !private ["So8NSObjectP", "lbDistrict"]
+- !private ["So8NSObjectP", "lbPostalCode"]
+- !private ["So8NSObjectP", "lbState"]
+- !private ["So8NSObjectP", "lbStreet"]
+- !private ["So8NSObjectP", "lbUF"]
+- !private ["So8NSObjectP", "postalCode"]
+- !private ["So8NSObjectP", "print"]
+- !private ["So8NSObjectP", "showAdress"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["Sq", "bairro"]
+- !private ["Sq", "cep"]
+- !private ["Sq", "localidade"]
+- !private ["Sq", "logradouro"]
+- !private ["Sq", "text"]
+- !private ["Sq", "uf"]
+- !private ["16SearchPostalCode0bC0V", "bairro"]
+- !private ["16SearchPostalCode0bC0V", "cep"]
+- !private ["16SearchPostalCode0bC0V", "localidade"]
+- !private ["16SearchPostalCode0bC0V", "logradouro"]
+- !private ["16SearchPostalCode0bC0V", "uf"]
+- ["16SearchPostalCode0A20ResultViewControllerC", "PostalCode"]
+- ["16SearchPostalCode0A20ResultViewControllerC", "UIButton"]
+- ["16SearchPostalCode0A20ResultViewControllerC", "UILabel"]
+- ["16SearchPostalCode0A20ResultViewControllerC", "close"]
+- ["16SearchPostalCode0A20ResultViewControllerC", "deinit"]
+- !private ["16SearchPostalCode0A20ResultViewControllerC", "dismiss"]
+- ["16SearchPostalCode0A20ResultViewControllerC", "init"]
+- ["16SearchPostalCode0A20ResultViewControllerC", "lbDistrict"]
+- ["16SearchPostalCode0A20ResultViewControllerC", "lbPostalCode"]
+- ["16SearchPostalCode0A20ResultViewControllerC", "lbState"]
+- ["16SearchPostalCode0A20ResultViewControllerC", "lbStreet"]
+- ["16SearchPostalCode0A20ResultViewControllerC", "lbUF"]
+- ["16SearchPostalCode0A20ResultViewControllerC", "postalCode"]
+- !private ["16SearchPostalCode0A20ResultViewControllerC", "print"]
+- ["16SearchPostalCode0A20ResultViewControllerC", "showAdress"]
+- ["16SearchPostalCode0A20ResultViewControllerC", "viewDidLoad"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "text"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "dismiss"]
+- !private ["So21UIAppearanceContainerP", "lbDistrict"]
+- !private ["So21UIAppearanceContainerP", "lbPostalCode"]
+- !private ["So21UIAppearanceContainerP", "lbState"]
+- !private ["So21UIAppearanceContainerP", "lbStreet"]
+- !private ["So21UIAppearanceContainerP", "lbUF"]
+- !private ["So21UIAppearanceContainerP", "postalCode"]
+- !private ["So21UIAppearanceContainerP", "print"]
+- !private ["So21UIAppearanceContainerP", "showAdress"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "dismiss"]
+- !private ["So18UIContentContainerP", "lbDistrict"]
+- !private ["So18UIContentContainerP", "lbPostalCode"]
+- !private ["So18UIContentContainerP", "lbState"]
+- !private ["So18UIContentContainerP", "lbStreet"]
+- !private ["So18UIContentContainerP", "lbUF"]
+- !private ["So18UIContentContainerP", "postalCode"]
+- !private ["So18UIContentContainerP", "print"]
+- !private ["So18UIContentContainerP", "showAdress"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "text"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "dismiss"]
+- !private ["So18UIFocusEnvironmentP", "lbDistrict"]
+- !private ["So18UIFocusEnvironmentP", "lbPostalCode"]
+- !private ["So18UIFocusEnvironmentP", "lbState"]
+- !private ["So18UIFocusEnvironmentP", "lbStreet"]
+- !private ["So18UIFocusEnvironmentP", "lbUF"]
+- !private ["So18UIFocusEnvironmentP", "postalCode"]
+- !private ["So18UIFocusEnvironmentP", "print"]
+- !private ["So18UIFocusEnvironmentP", "showAdress"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So7UILabelC", "text"]
+- !private ["So24UILargeContentViewerItemP", "text"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "dismiss"]
+- !private ["So30UIPasteConfigurationSupportingP", "lbDistrict"]
+- !private ["So30UIPasteConfigurationSupportingP", "lbPostalCode"]
+- !private ["So30UIPasteConfigurationSupportingP", "lbState"]
+- !private ["So30UIPasteConfigurationSupportingP", "lbStreet"]
+- !private ["So30UIPasteConfigurationSupportingP", "lbUF"]
+- !private ["So30UIPasteConfigurationSupportingP", "postalCode"]
+- !private ["So30UIPasteConfigurationSupportingP", "print"]
+- !private ["So30UIPasteConfigurationSupportingP", "showAdress"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So11UIResponderC", "PostalCode"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "close"]
+- !private ["So11UIResponderC", "dismiss"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "lbDistrict"]
+- ["So11UIResponderC", "lbPostalCode"]
+- ["So11UIResponderC", "lbState"]
+- ["So11UIResponderC", "lbStreet"]
+- ["So11UIResponderC", "lbUF"]
+- ["So11UIResponderC", "postalCode"]
+- !private ["So11UIResponderC", "print"]
+- ["So11UIResponderC", "showAdress"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "dismiss"]
+- !private ["So30UIResponderStandardEditActionsP", "lbDistrict"]
+- !private ["So30UIResponderStandardEditActionsP", "lbPostalCode"]
+- !private ["So30UIResponderStandardEditActionsP", "lbState"]
+- !private ["So30UIResponderStandardEditActionsP", "lbStreet"]
+- !private ["So30UIResponderStandardEditActionsP", "lbUF"]
+- !private ["So30UIResponderStandardEditActionsP", "postalCode"]
+- !private ["So30UIResponderStandardEditActionsP", "print"]
+- !private ["So30UIResponderStandardEditActionsP", "showAdress"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "dismiss"]
+- !private ["So16UIStateRestoringP", "lbDistrict"]
+- !private ["So16UIStateRestoringP", "lbPostalCode"]
+- !private ["So16UIStateRestoringP", "lbState"]
+- !private ["So16UIStateRestoringP", "lbStreet"]
+- !private ["So16UIStateRestoringP", "lbUF"]
+- !private ["So16UIStateRestoringP", "postalCode"]
+- !private ["So16UIStateRestoringP", "print"]
+- !private ["So16UIStateRestoringP", "showAdress"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "dismiss"]
+- !private ["So18UITraitEnvironmentP", "lbDistrict"]
+- !private ["So18UITraitEnvironmentP", "lbPostalCode"]
+- !private ["So18UITraitEnvironmentP", "lbState"]
+- !private ["So18UITraitEnvironmentP", "lbStreet"]
+- !private ["So18UITraitEnvironmentP", "lbUF"]
+- !private ["So18UITraitEnvironmentP", "postalCode"]
+- !private ["So18UITraitEnvironmentP", "print"]
+- !private ["So18UITraitEnvironmentP", "showAdress"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "dismiss"]
+- !private ["So23UIUserActivityRestoringP", "lbDistrict"]
+- !private ["So23UIUserActivityRestoringP", "lbPostalCode"]
+- !private ["So23UIUserActivityRestoringP", "lbState"]
+- !private ["So23UIUserActivityRestoringP", "lbStreet"]
+- !private ["So23UIUserActivityRestoringP", "lbUF"]
+- !private ["So23UIUserActivityRestoringP", "postalCode"]
+- !private ["So23UIUserActivityRestoringP", "print"]
+- !private ["So23UIUserActivityRestoringP", "showAdress"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "text"]
+- ["So16UIViewControllerC", "PostalCode"]
+- ["So16UIViewControllerC", "UIButton"]
+- ["So16UIViewControllerC", "UILabel"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "close"]
+- !private ["So16UIViewControllerC", "dismiss"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "lbDistrict"]
+- ["So16UIViewControllerC", "lbPostalCode"]
+- ["So16UIViewControllerC", "lbState"]
+- ["So16UIViewControllerC", "lbStreet"]
+- ["So16UIViewControllerC", "lbUF"]
+- ["So16UIViewControllerC", "postalCode"]
+- !private ["So16UIViewControllerC", "print"]
+- ["So16UIViewControllerC", "showAdress"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dismiss"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lbDistrict"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lbPostalCode"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lbState"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lbStreet"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lbUF"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "postalCode"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "showAdress"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "dismiss"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "lbDistrict"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "lbPostalCode"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "lbState"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "lbStreet"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "lbUF"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "postalCode"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "print"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "showAdress"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "bairro"]
+- !private ["s21_ObjectiveCBridgeableP", "cep"]
+- !private ["s21_ObjectiveCBridgeableP", "localidade"]
+- !private ["s21_ObjectiveCBridgeableP", "logradouro"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s21_ObjectiveCBridgeableP", "uf"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+depends-nominal:
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sq"
+- !private "16SearchPostalCode0bC0V"
+- "16SearchPostalCode0A20ResultViewControllerC"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So7UILabelC"
+- !private "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/williamtomaz/Downloads/Projetos/SearchPostalCode/DerivedData/SearchPostalCode/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/williamtomaz/Downloads/Projetos/SearchPostalCode/DerivedData/SearchPostalCode/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/williamtomaz/Downloads/Projetos/SearchPostalCode/DerivedData/SearchPostalCode/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/williamtomaz/Downloads/Projetos/SearchPostalCode/DerivedData/SearchPostalCode/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "86167bbe911d55a8d2e73bcce4da15d9"

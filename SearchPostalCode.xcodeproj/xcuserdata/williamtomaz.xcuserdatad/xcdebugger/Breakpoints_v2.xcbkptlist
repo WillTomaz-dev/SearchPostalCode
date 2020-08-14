@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "77993DCF-51D1-4E28-B4C1-667675BC6797"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8BF8915-0603-4B95-ABBA-2234F90F4F10"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SearchPostalCode/Models/SearchPostalCode.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "loadAdress(postalCode:onComplete:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D8BF8915-0603-4B95-ABBA-2234F90F4F10 - 48e130cf8ad1567c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SearchPostalCode.SearchPostalCode.loadAdress(postalCode: Swift.String, onComplete: (Swift.Optional&lt;SearchPostalCode.PostalCode&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SearchPostalCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williamtomaz/Downloads/Projetos/SearchPostalCode/SearchPostalCode/Models/SearchPostalCode.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "D8BF8915-0603-4B95-ABBA-2234F90F4F10 - b59dab2ba8609ca7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in static SearchPostalCode.SearchPostalCode.loadAdress(postalCode: Swift.String, onComplete: (Swift.Optional&lt;SearchPostalCode.PostalCode&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SearchPostalCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williamtomaz/Downloads/Projetos/SearchPostalCode/SearchPostalCode/Models/SearchPostalCode.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "159">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B22138CD-7819-46B9-A55F-30DB40CD066B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SearchPostalCode/Models/SearchPostalCode.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "loadAdress(postalCode:onComplete:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

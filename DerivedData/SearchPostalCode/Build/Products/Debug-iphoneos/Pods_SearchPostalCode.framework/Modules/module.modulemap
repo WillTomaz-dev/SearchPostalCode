@@ -1,0 +1,6 @@
+framework module Pods_SearchPostalCode {
+  umbrella header "Pods-SearchPostalCode-umbrella.h"
+
+  export *
+  module * { export * }
+}

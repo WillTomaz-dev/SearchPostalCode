@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "89b541c00659898481aa1f3dcf73e85d"
+build_time: [1593657630, 831976000]
+inputs:
+  "/Users/williamtomaz/Downloads/Projetos/SearchPostalCode/SearchPostalCode/Controllers/SearchViewController.swift": !dirty [1593099875, 152538539]
+  "/Users/williamtomaz/Downloads/Projetos/SearchPostalCode/SearchPostalCode/Models/PostalCode.swift": !dirty [1593011702, 353438318]
+  "/Users/williamtomaz/Downloads/Projetos/SearchPostalCode/SearchPostalCode/Controllers/SearchResultViewController.swift": !dirty [1593031065, 632072494]
+  "/Users/williamtomaz/Downloads/Projetos/SearchPostalCode/SearchPostalCode/AppDelegate.swift": !dirty [1591729619, 636188483]
+  "/Users/williamtomaz/Downloads/Projetos/SearchPostalCode/SearchPostalCode/Models/SearchPostalCode.swift": !dirty [1593632307, 507483383]
